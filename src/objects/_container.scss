@@ -1,3 +1,15 @@
 // Container Objects
 
+// Options
+/*
+$iota-objs-container: true;
+
+$iota-objs-container-namespace: 'container' !default;
+
+$iota-objs-container-gutter-default : $iota-global-gutter-default !default;
+$iota-objs-container-gutter-extra   : () !default;
+
+$iota-objs-container-size-default : 1000px !default;
+$iota-objs-container-size-extra   : () !default;
+*/
 @import "../../node_modules/iotacss-objs-container/objects.container";

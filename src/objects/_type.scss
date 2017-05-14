@@ -1,3 +1,12 @@
 // Typography Objects
 
+// Options
+/*
+$iota-objs-type             : true;
+
+$iota-objs-type-namespace   : 'type-' !default;
+
+$iota-objs-type-sizes       : () !default;
+$iota-objs-type-breakpoints : $iota-global-breakpoints !default;
+*/
 @import "../../node_modules/iotacss-objs-type/objects.type";

@@ -1,3 +1,16 @@
 // Align Utility
 
+// Options
+/*
+$iota-utils-align                : true;
+
+$iota-utils-align-namespace     : 'align-' !default;
+$iota-utils-align-top-name      : 'top' !default;
+$iota-utils-align-bottom-name   : 'bottom' !default;
+$iota-utils-align-middle-name   : 'middle' !default;
+$iota-utils-align-baseline-name : 'baseline' !default;
+
+$iota-utils-align-res           : false !default;
+$iota-utils-align-breakpoints   : $iota-global-breakpoints !default;
+*/
 @import "../../node_modules/iotacss-utils-align/utilities.align";

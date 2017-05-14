@@ -1,3 +1,15 @@
 // Pull Utility
 
+// Options
+/*
+$iota-utils-pull              : true;
+
+$iota-utils-pull-namespace    : 'pull-' !default;
+$iota-utils-pull-delimiter    : $iota-global-delimiter !default;
+
+$iota-utils-pull-columns      : $iota-global-columns !default;
+
+$iota-utils-pull-res          : false !default;
+$iota-utils-pull-breakpoints  : $iota-global-breakpoints !default;
+*/
 @import "../../node_modules/iotacss-utils-pull/utilities.pull";
