@@ -29,7 +29,7 @@ Bug reports, pull requests, or feature requests for [iotaCSS modules](https://gi
 `npm install -g node-sass`
 
 `node-sass src/main.scss dist/main.css`
-* A compiled version is already in the repo as dist/style.css to preview
+* A compiled version is already in the repo as dist/preview.css to preview
 
 ## Settings
 
