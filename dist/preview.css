@@ -1,3 +1,20 @@
+/* --- Begin - settings/colors --- */
+/* --- End - settings/colors --- */
+/* --- Begin - settings/core --- */
+/* --- End - settings/core --- */
+/* --- Begin - settings/type --- */
+/* --- Begin - settings/type --- */
+/* --- Begin - tools/breakpoint --- */
+/* --- End - tools/breakpoint --- */
+/* --- Begin - tools/core --- */
+/* --- End - tools/core --- */
+/* --- Begin - tools/ms --- */
+/* --- End - tools/ms --- */
+/* --- Begin - tools/rtl --- */
+/* --- End - tools/rtl --- */
+/* --- Begin - tools/type --- */
+/* --- End - tools/type --- */
+/* --- Begin - base/initialize --- */
 /**
  * A modern, elegant and minimal combination of Normalize.css and
  * CSS Reset. Compatible with IE10+.
@@ -96,6 +113,8 @@ a {
   -webkit-text-decoration-skip: objects;
   /* 4 */ }
 
+/* --- End - base/initialize --- */
+/* --- Begin - base/normalize --- */
 /*! normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */
 /**
  * 1. Change the default font family in all browsers (opinionated).
@@ -500,6 +519,10 @@ template {
 [hidden] {
   display: none; }
 
+/* --- End - base/normalize --- */
+/* --- Begin - base/type --- */
+/* --- End - base/type --- */
+/* --- Begin - objects/container --- */
 .o-container {
   margin-right: auto;
   margin-left: auto;
@@ -507,6 +530,8 @@ template {
   padding-left: 10px;
   max-width: 1000px; }
 
+/* --- End - objects/container --- */
+/* --- Begin - objects/grid --- */
 .o-grid {
   margin-left: -10px;
   list-style: none;
@@ -522,6 +547,8 @@ template {
   min-height: 1px;
   vertical-align: top; }
 
+/* --- End - objects/grid --- */
+/* --- Begin - objects/list --- */
 .o-list {
   margin: 0;
   padding: 0;
@@ -529,6 +556,8 @@ template {
   .o-list > .o-list__item {
     vertical-align: top; }
 
+/* --- End - objects/list --- */
+/* --- Begin - objects/media --- */
 .o-media {
   display: table;
   width: 100%; }
@@ -546,6 +575,18 @@ template {
     .o-media > .o-media__fluid > :last-child {
       margin-bottom: 0; }
 
+/* --- End - objects/media --- */
+/* --- Begin - objects/type --- */
+/* --- End - objects/type --- */
+/* --- Begin - components/alert --- */
+/* --- End - components/alert --- */
+/* --- Begin - components/article --- */
+/* --- End - components/artice --- */
+/* --- Begin - components/box --- */
+/* --- End - components/box --- */
+/* --- Begin - components/breadcrumb --- */
+/* --- End - components/breadcrumb --- */
+/* --- Begin - components/button --- */
 .c-button {
   display: inline-block;
   margin: 0;
@@ -560,6 +601,18 @@ template {
   text-decoration: none;
   background: #39b2ff; }
 
+/* --- End - components/button --- */
+/* --- Begin - components/burger-btn --- */
+/* --- End - components/burger-btn --- */
+/* --- Begin - components/circle --- */
+/* --- End - components/circle --- */
+/* --- Begin - components/header --- */
+/* --- End - components/header --- */
+/* --- Begin - components/link --- */
+/* --- End - components/link --- */
+/* --- Begin - components/mobile-nav --- */
+/* --- End - components/mobile-nav --- */
+/* --- Begin - components/modal --- */
 .is-modal-open {
   position: fixed;
   top: 0;
@@ -606,6 +659,14 @@ template {
   text-size-adjust: 100%;
   box-sizing: border-box; }
 
+/* --- End - components/modal --- */
+/* --- Begin - components/page --- */
+/* --- End - components/page --- */
+/* --- Begin - components/ruler --- */
+/* --- End - components/ruler --- */
+/* --- Begin - components/sidebar --- */
+/* --- End - components/sidebar --- */
+/* --- Begin - utilities/align --- */
 .u-align-top {
   vertical-align: top !important; }
 
@@ -618,11 +679,19 @@ template {
 .u-align-baseline {
   vertical-align: baseline !important; }
 
+/* --- End - utilities/align --- */
+/* --- Begin - utilities/bgcolor --- */
+/* --- End - utilities/bgcolor --- */
+/* --- Begin - utilities/clearfix --- */
 .u-cf:after {
   content: "";
   display: table;
   clear: both; }
 
+/* --- End - utilities/clearfix --- */
+/* --- Begin - utilities/color --- */
+/* --- End - utilities/color --- */
+/* --- Begin - utilities/display --- */
 .u-flex {
   display: flex !important; }
 
@@ -638,12 +707,16 @@ template {
 .u-inline-block {
   display: inline-block !important; }
 
+/* --- End - utilities/display --- */
+/* --- Begin - utilities/float --- */
 .u-float-left {
   float: left !important; }
 
 .u-float-right {
   float: right !important; }
 
+/* --- End - utilities/float --- */
+/* --- Begin - utilities/margin --- */
 .u-m {
   margin: 10px !important; }
 
@@ -667,6 +740,10 @@ template {
   margin-right: 10px !important;
   margin-left: 10px !important; }
 
+/* --- End - utilities/margin --- */
+/* --- Begin - utilities/opacity --- */
+/* --- End - utilities/opacity --- */
+/* --- Begin - utilities/padding --- */
 .u-p {
   padding: 10px !important; }
 
@@ -690,6 +767,8 @@ template {
   padding-right: 10px !important;
   padding-left: 10px !important; }
 
+/* --- End - utilities/padding --- */
+/* --- Begin - utilities/position --- */
 .u-absolute {
   position: absolute !important; }
 
@@ -702,6 +781,8 @@ template {
 .u-static {
   position: static !important; }
 
+/* --- End - utilities/position --- */
+/* --- Begin - utilities/pull --- */
 .u-pull-1\/2 {
   margin-right: 50% !important; }
 
@@ -726,6 +807,8 @@ template {
 .u-pull-5\/6 {
   margin-right: 83.33333% !important; }
 
+/* --- End - utilities/pull --- */
+/* --- Begin - utilities/push --- */
 .u-push-1\/2 {
   margin-left: 50% !important; }
 
@@ -750,6 +833,8 @@ template {
 .u-push-5\/6 {
   margin-left: 83.33333% !important; }
 
+/* --- End - utilities/push --- */
+/* --- Begin - utilities/size --- */
 .u-1\/2 {
   width: 50% !important; }
 
@@ -783,6 +868,8 @@ template {
 .u-6\/6 {
   width: 100% !important; }
 
+/* --- End - utilities/size --- */
+/* --- Begin - utilities/text --- */
 .u-text-left {
   text-align: left !important; }
 
@@ -792,6 +879,8 @@ template {
 .u-text-center {
   text-align: center !important; }
 
+/* --- End - utilities/text --- */
+/* --- Begin - utilities/transform --- */
 .u-capitalize {
   text-transform: capitalize !important; }
 
@@ -800,3 +889,7 @@ template {
 
 .u-lowercase {
   text-transform: lowercase !important; }
+
+/* --- End - utilities/transform --- */
+/* --- Begin - utilities/weight --- */
+/* --- End - utilities/weight --- */
