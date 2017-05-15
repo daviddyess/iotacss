@@ -1,15 +1,17 @@
-// Text Utility
+/* --- Begin - utilities/text --- */
 
 // Options
-/*
-$iota-utils-text              : true;
 
-$iota-utils-text-namespace    : 'text-' !default;
-$iota-utils-text-left-name    : 'left' !default;
-$iota-utils-text-right-name   : 'right' !default;
-$iota-utils-text-center-name  : 'center' !default;
+//$iota-utils-text              : true;
 
-$iota-utils-text-res          : false !default;
-$iota-utils-text-breakpoints  : $iota-global-breakpoints !default;
-*/
+//$iota-utils-text-namespace    : 'text-' !default;
+//$iota-utils-text-left-name    : 'left' !default;
+//$iota-utils-text-right-name   : 'right' !default;
+//$iota-utils-text-center-name  : 'center' !default;
+
+//$iota-utils-text-res          : false !default;
+//$iota-utils-text-breakpoints  : $iota-global-breakpoints !default;
+
 @import "../../node_modules/iotacss-utils-text/utilities.text";
+
+/* --- End - utilities/text --- */

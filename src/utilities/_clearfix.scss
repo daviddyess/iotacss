@@ -1,9 +1,11 @@
-// Clearfix Utility
+/* --- Begin - utilities/clearfix --- */
 
 // Options
-/*
-$iota-utils-clearfix            : true;
 
-$iota-utils-clearfix-namespace  : 'cf' !default;
-*/
+//$iota-utils-clearfix            : true;
+
+//$iota-utils-clearfix-namespace  : 'cf' !default;
+
 @import "../../node_modules/iotacss-utils-clearfix/utilities.clearfix";
+
+/* --- End - utilities/clearfix --- */

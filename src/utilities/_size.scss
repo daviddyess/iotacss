@@ -1,16 +1,18 @@
-// Size Utility
+/* --- Begin - utilities/size --- */
 
 //Options
-/*
-$iota-utils-size              : true;
 
-$iota-utils-size-namespace    : '' !default;
+//$iota-utils-size              : true;
 
-$iota-utils-size-columns      : $iota-global-columns !default;
+//$iota-utils-size-namespace    : '' !default;
 
-$iota-utils-size-delimiter    : \/ !default;
+//$iota-utils-size-columns      : $iota-global-columns !default;
 
-$iota-utils-size-res          : false !default;
-$iota-utils-size-breakpoints  : $iota-global-breakpoints !default;
-*/
+//$iota-utils-size-delimiter    : \/ !default;
+
+//$iota-utils-size-res          : false !default;
+//$iota-utils-size-breakpoints  : $iota-global-breakpoints !default;
+
 @import "../../node_modules/iotacss-utils-size/utilities.size";
+
+/* --- End - utilities/size --- */

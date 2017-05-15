@@ -1,11 +1,13 @@
-// Weight Utility
+/* --- Begin - utilities/weight --- */
 
 // Options
-/*
-$iota-utils-weight            : true;
 
-$iota-utils-weight-namespace  : 'weight-' !default;
+//$iota-utils-weight            : true;
 
-$iota-utils-weight-sizes      : () !default;
-*/
+//$iota-utils-weight-namespace  : 'weight-' !default;
+
+//$iota-utils-weight-sizes      : () !default;
+
 @import "../../node_modules/iotacss-utils-weight/utilities.weight";
+
+/* --- End - utilities/weight --- */

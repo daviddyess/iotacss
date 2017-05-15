@@ -1,15 +1,17 @@
-// Push Utility
+/* --- Begin - utilities/push --- */
 
 // Options
-/*
-$iota-utils-push              : true;
 
-$iota-utils-push-namespace    : 'push-' !default;
-$iota-utils-push-delimiter    : $iota-global-delimiter !default;
+//$iota-utils-push              : true;
 
-$iota-utils-push-columns      : $iota-global-columns !default;
+//$iota-utils-push-namespace    : 'push-' !default;
+//$iota-utils-push-delimiter    : $iota-global-delimiter !default;
 
-$iota-utils-push-res          : false !default;
-$iota-utils-push-breakpoints  : $iota-global-breakpoints !default;
-*/
+//$iota-utils-push-columns      : $iota-global-columns !default;
+
+//$iota-utils-push-res          : false !default;
+//$iota-utils-push-breakpoints  : $iota-global-breakpoints !default;
+
 @import "../../node_modules/iotacss-utils-push/utilities.push";
+
+/* --- End - utilities/push --- */

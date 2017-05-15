@@ -1,11 +1,13 @@
-// Background Color Utility
+/* --- Begin - utilities/bgcolor --- */
 
 // Options
-/*
-$iota-utils-bgcolor           : true;
 
-$iota-utils-bgcolor-namespace : 'bgcolor-' !default;
+//$iota-utils-bgcolor           : true;
 
-$iota-utils-bgcolor-names     : () !default;
-*/
+//$iota-utils-bgcolor-namespace : 'bgcolor-' !default;
+
+//$iota-utils-bgcolor-names     : () !default;
+
 @import "../../node_modules/iotacss-utils-bgcolor/utilities.bgcolor";
+
+/* --- End - utilities/bgcolor --- */

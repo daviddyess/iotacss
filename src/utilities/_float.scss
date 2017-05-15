@@ -1,14 +1,16 @@
-// Float Utility
+/* --- Begin - utilities/float --- */
 
 // Options
-/*
-$iota-utils-float             : true;
 
-$iota-utils-float-namespace   : 'float-' !default;
-$iota-utils-float-left-name   : 'left' !default;
-$iota-utils-float-right-name  : 'right' !default;
+//$iota-utils-float             : true;
 
-$iota-utils-float-res         : false !default;
-$iota-utils-float-breakpoints : $iota-global-breakpoints !default;
-*/
+//$iota-utils-float-namespace   : 'float-' !default;
+//$iota-utils-float-left-name   : 'left' !default;
+//$iota-utils-float-right-name  : 'right' !default;
+
+//$iota-utils-float-res         : false !default;
+//$iota-utils-float-breakpoints : $iota-global-breakpoints !default;
+
 @import "../../node_modules/iotacss-utils-float/utilities.float";
+
+/* --- End - utilities/float --- */

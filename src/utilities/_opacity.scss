@@ -1,11 +1,13 @@
-// Opacity Utilities
+/* --- Begin - utilities/opacity --- */
 
 // Options
-/*
-$iota-utils-opacity           : true;
 
-$iota-utils-opacity-namespace : 'opacity-' !default;
+//$iota-utils-opacity           : true;
 
-$iota-utils-opacity-sizes     : () !default;
-*/
+//$iota-utils-opacity-namespace : 'opacity-' !default;
+
+//$iota-utils-opacity-sizes     : () !default;
+
 @import "../../node_modules/iotacss-utils-opacity/utilities.opacity";
+
+/* --- End - utilities/opacity --- */

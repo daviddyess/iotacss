@@ -1,15 +1,17 @@
-// Transform Utilities
+/* --- Begin - utilities/transform --- */
 
 // Options
-/*
-$iota-utils-transform                 : true;
 
-$iota-utils-transform-namespace       : '' !default;
-$iota-utils-transform-capitalize-name : 'capitalize' !default;
-$iota-utils-transform-uppercase-name  : 'uppercase' !default;
-$iota-utils-transform-lowercase-name  : 'lowercase' !default;
+//$iota-utils-transform                 : true;
 
-$iota-utils-transform-res             : false !default;
-$iota-utils-transform-breakpoints     : $iota-global-breakpoints !default;
-*/
+//$iota-utils-transform-namespace       : '' !default;
+//$iota-utils-transform-capitalize-name : 'capitalize' !default;
+//$iota-utils-transform-uppercase-name  : 'uppercase' !default;
+//$iota-utils-transform-lowercase-name  : 'lowercase' !default;
+
+//$iota-utils-transform-res             : false !default;
+//$iota-utils-transform-breakpoints     : $iota-global-breakpoints !default;
+
 @import "../../node_modules/iotacss-utils-transform/utilities.transform";
+
+/* --- End - utilities/transform --- */

@@ -1,11 +1,13 @@
-// Color Utility
+/* --- Begin - utilities/color --- */
 
 // Options
-/*
-$iota-utils-color           : true;
 
-$iota-utils-color-namespace : 'color-' !default;
+//$iota-utils-color           : true;
 
-$iota-utils-color-names     : () !default;
-*/
+//$iota-utils-color-namespace : 'color-' !default;
+
+//$iota-utils-color-names     : () !default;
+
 @import "../../node_modules/iotacss-utils-color/utilities.color";
+
+/* --- End - utilities/color --- */
