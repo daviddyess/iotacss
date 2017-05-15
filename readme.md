@@ -62,5 +62,5 @@ iotaCSS is wonderful, but managing all of the different modules individually thr
 
 iotaCSS is Copyright © 2016–2017 iotaCSS and is released under the Apache License, 2.0.
 
-The iotaCSS Starter Kit is Copyright © 2016–2017 David Dyess II amd also licensed under the Apache License, 2.0 for consistency.
+The iotaCSS Starter Kit is Copyright © 2017 David Dyess II and also licensed under the Apache License, 2.0 for consistency.
 
