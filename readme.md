@@ -18,7 +18,7 @@ Bug reports, pull requests, or feature requests for [iotaCSS modules](https://gi
 ## Getting Started
 
 1. Check out the documentation on the [iotaCSS.com](https://www.iotacss.com/) web site.
-2. Fork this repo
+2. Fork or Clone this repo
 3. Install:
 
 `npm install`
@@ -52,7 +52,10 @@ You can also add files within the `/src/settings`, `/src/tools`, etc. folders, j
 * [NPM /~iotacss](https://www.npmjs.com/~iotacss)
   * If you notice a module listed that isn't incuded here, please submit an issue and it'll be added.
 * [Github /iotacss](https://github.com/iotacss/)
-
+* [iotaCSS](https://github.com/iotacss/iotacss)
+  * All of the iotaCSS modules in an NPM package (Official)
+* [iotaPlate](https://github.com/iotacss/iotaplate)
+  * The iotaCSS Boilerplate for getting a quick file structure. (Official)
 
 ## Why?
 
